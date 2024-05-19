@@ -1,0 +1,29 @@
+﻿Dmitriy Dorofeyev
+05/15/2024
+                
+
+
+                In this coding project I am coding a program that is selling a limited amount of cinema tickets.
+
+
+Functions: 
+* selling_tickets
+
+
+
+
+Variables:
+* total_tickets
+* total_buyers
+* tickets_requested
+
+
+
+
+1. First I define a function named “selling_tickets” .
+2. I make sure to set the number of buyers to zero so the program can accurately calculate the number of people buying.
+3. I set the number of tickets to 20 so there is a limit to how much tickets there are.
+4. I use a “try” block to make sure there are no errors if the user types a non integer.
+5. Then I use if else statements to make sure certain conditions are met.
+6. Then I call the main function to run the program.
+7. https://github.com/Ddeema24/COP2373.git

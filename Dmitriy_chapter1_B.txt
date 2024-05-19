@@ -1,0 +1,33 @@
+﻿Dmitriy Dorofeyev
+5/19/2024
+
+
+
+
+In this coding assignment I will be making a magic 8 ball.
+
+
+
+
+Functions: 
+* create_responses_file
+* read_responses 
+* magic_8_ball
+
+
+
+
+Variables:
+        
+* Response
+* Responses
+* Question
+* Answer
+
+
+1. Create the file that contains all the possible answers. (8ball_responses.txt) 
+2. I import random that way the choices are random when the user asks a question and receives different answers for different questions.
+3. Create a function that interacts with the user. Whether he wants to ask a yes or no question or to quit the program.
+4. Use a while true loop to make sure the user would like to continue and if not the program stops.
+5. Call the main function to run the program.
+6. https://github.com/Ddeema24/COP2373.git
