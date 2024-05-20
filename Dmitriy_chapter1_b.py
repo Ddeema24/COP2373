@@ -1,3 +1,4 @@
+#This function creates the 8 ball file.
 def create_8ball_responses_file():
     responses = [
         "Yes, of course!",
