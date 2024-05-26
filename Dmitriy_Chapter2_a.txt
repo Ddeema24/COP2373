@@ -1,0 +1,18 @@
+﻿Dmitriy Dorofeyev
+5/25/2024
+
+
+In this coding project I made a program that scans an email message to see the possibility of it being a spam email or not. 
+
+Functions: get_spam_score, rate_spam_likelihood, main
+
+
+Variables: spam_keywords, score, found_keywords, message_lower, keyword, message, spam_score, spam_likelihood, 
+
+
+1. Create a list with all the most common spam phrases.
+2. Create a  function that checks how many spam keywords appear in the given email message.
+3. Create a function that determines the likelihood that the message is spam based on the spam score.
+4. Then the main function accepts the user input which allows the user to enter the email message. 
+5. Call the main function.
+6. https://github.com/Ddeema24/COP2373.git
