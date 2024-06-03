@@ -1,0 +1,35 @@
+﻿Dmitriy Dorofeyev
+6/01/2024
+
+
+
+
+In this coding assignment I will be making a program that calculates the type of expense you did and the most you spent on an item as well as the total of all the items or expenses you did.
+
+
+Functions:
+* get_expenses
+* calculate_total
+* find_highest
+* find_lowest
+* total_expense
+* highest_expense
+* lowest_expense
+* main
+Valiables:
+* expense_type
+* amount
+* expenses
+* acc short for accumulator
+* total_expense
+* highest
+* highest_expense
+* lowest
+* lowest_expense
+
+
+1.First I imported “reduce” from functools to calculate the lists written later in the code.
+2. Then I make a function that collects expenses from the user until he types done to finish the calculations,
+3. Then I wrote 3 separate functions which calculate Highest expense, Lowest expense and the total of all the expenses.
+4. Then I call main to start the program which starts running the program.
+5. https://github.com/Ddeema24/COP2373.git
