@@ -1,0 +1,30 @@
+﻿Dmitriy Dorofeyev
+6/19/2024
+
+
+        In this coding project I will code a program that can validate whether the phone number, ssn, or zip code is valid.
+
+
+Functions: 
+* validate_phone_number(phone_number)
+* validate_ssn(ssn)
+* validate_zip_code(zip_code)
+* main()
+
+
+Variables:
+* phone_number
+* pattern
+* ssn
+* zip_code
+
+
+
+
+1. First I imported re in order to use the regular expressions.
+2. Then I created 3 validate functions to actually validate whether the phone number, social security number, and zip code are valid or not. 
+3. After validating those numbers we call a main function which actually asks the user for input and displays the results.
+4. First it asks for the phone number and checks the condition with the if statement of whether or not its a phone number or not. (Returns a true or false statement essentially.)
+5. Then it does the same thing for a social security number and the zip code number.
+6. Call the main function to run the program.
+7. https://github.com/Ddeema24/COP2373.git
