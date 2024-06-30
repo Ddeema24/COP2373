@@ -1,0 +1,39 @@
+﻿Dmitriy Dorofeyev        
+6/28/2024
+
+
+
+
+
+
+In this coding project I am writing a code that creates a csv file then prints it in read mode for viewing.
+
+
+Functions: input(prompt), int(), open(filename, mode, newline=''), csv.writer(file), writer.writerow(row), open(filename, mode), csv.reader(file), next(iterator), print().
+
+
+Variables: num_students, file, writer, first_name, last_name, exam1, exam2, exam3, reader, header, row.
+
+
+
+
+1. Import the csv module
+2. Prompt the user to enter how many students they want to input data for
+3. Use the open() function to create or overwrite a file named grades.csv
+4. Create a writer object that will allow you to write rows to the CSV file.
+5. Loop to get student details
+
+
+
+
+Second program:
+
+
+1. Import the csv module.
+2. Open the CSV file in read mode
+3. Use csv.reader() to create a reader object that will allow you to read rows from the CSV file.
+4. Use the next() function to read and store the header row from the CSV file.
+5. Print the header row in a tabular format using formatted strings.
+6. Loop through and read each row from the CSV file
+7. Print a completion message.
+8. https://github.com/Ddeema24/COP2373.git
