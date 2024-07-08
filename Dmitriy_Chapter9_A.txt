@@ -1,0 +1,39 @@
+﻿Dmitriy Dorofeyev
+7/05/2024
+
+
+
+
+Functions: 
+__init__(self, name, account_number, amount, interest_rate)
+adjust_interest_rate(self, new_rate)
+withdraw(self, amount)
+deposit(self, amount)
+get_balance(self)
+calculate_interest(self, days)
+__str__(self)
+test_bank_acct()
+
+
+Variables:
+self.name
+self.account_number
+self.amount
+self.interest_rate 
+new_rate
+amount
+days
+account
+balance
+interest
+
+
+1.Define the BankAcct class with attributes and methods to manage a bank account.
+2.Adjust Interest rate by using a method to update the interest rate of the account.
+3. Method to deposit a specified amount into the account.
+4. Method to get the current balance in the account.
+5. Create a method to calculate the interest.
+6. Calculate the interest based on the formula: amount * (interest_rate / 100) * (days / 365).
+7. Create a test function to test the program.
+8. Check if the script is run directly (using if __name__ == "__main__").
+9. https://github.com/Ddeema24/COP2373.g
