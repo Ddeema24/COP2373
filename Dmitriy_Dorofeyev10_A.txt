@@ -1,0 +1,18 @@
+﻿Dmitriy Dorofeyev        
+7/10/2024
+
+
+Functions: 
+__init__, __add__, __sub__, __mul__, __repr__, test_money_operations.
+Variables:
+amount, currency, m1, m2, m3, result.
+
+
+1. First I used the init method which initializes a Money object with an amount and a currency.
+2. Then I used the add method which allows for the addition of two Money objects using the + operator.
+3. Then I do the same thing for sub and mul functions.
+4. The repr method provides a string representation of the Money object.
+5. Then I create a test function which has a try and except block for each function to test the code and show that it works. 
+6. Call the main function to run the code.
+7.  https://github.com/Ddeema24/COP2373.g
+8.
