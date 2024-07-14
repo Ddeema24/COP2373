@@ -1,0 +1,20 @@
+﻿Dmitriy Dorofeyev
+7/15/2024
+
+
+Functions:
+__init__, __add__, __sub__, __mul__, __repr__, deposit, withdraw, test_bank_acct_operations.
+
+
+Variables:
+amount, currency, balance, acct.
+
+
+1.Recall the money class I used in chapter 10 a exercise assignment.
+2. Then I made a new class called BankAcct Class.
+3. First function initializes the BankAcct object with an initial balance and currency.
+4. Then I used a deposit function which deposits a specified amount into the account balance.
+5. As well as a withdraw function which withdraws a specified amount from the account balance.
+6. Make a test function to test the functions and make sure each individual function operates correctly using try and except blocks. 
+7. Then I called the main function to run the program.
+8. https://github.com/Ddeema24/COP2373.g
