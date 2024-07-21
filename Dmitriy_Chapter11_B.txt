@@ -1,0 +1,16 @@
+﻿Dmitriy Dorofeyev
+07/16/24
+
+
+Functions:
+ calculate_hypotenuse(angle_degrees, adjacent_length), main()
+Variables:
+Variables: angle_degrees, adjacent_length, angle_radians, hypotenuse_length
+
+
+1. The math library is imported to use mathematical functions such as cos and radians.
+2. The function calculate_hypotenuse takes two parameters: angle_degrees (the nearest angle in degrees) and adjacent_length (the length of the adjacent side).
+3. angle_radians = math.radians(angle_degrees): Converts the angle from degrees to radians because trigonometric functions in Python expect the angle to be in radians.
+4. hypotenuse_length = adjacent_length / math.cos(angle_radians): Uses the cosine function to calculate the hypotenuse.
+5. Call the main function to run the program.
+6.  https://github.com/Ddeema24/COP2373.g
