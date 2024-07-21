@@ -1,0 +1,12 @@
+﻿Dmitriy Dorofeyev
+07/14/24
+Functions:
+__init__(self, suit, rank), __str__(self) for the Card class; __init__(self), deal(self, num) for the Deck class; __init__(self, cards), __str__(self), replace(self, indices, new_cards) for the PokerHand class; main() for the main program logic.
+Variables:
+suits, ranks, suit, rank, cards for the Card class; cards, dealt_cards for the Deck class; cards for the PokerHand class; deck, hand, indices, new_cards in the main function.
+1. Card Class defines the structure and behavior of a playing card.
+2. Deck Class Defines the structure and behavior of a deck of cards
+3. Deal Method Takes a parameter num indicating the number of cards to deal.
+4. PokerHand Class Defines the structure and behavior of a poker hand.
+5. Make a main function to call and run the program.
+6.  https://github.com/Ddeema24/COP2373.g
