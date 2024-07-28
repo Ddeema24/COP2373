@@ -1,0 +1,17 @@
+﻿Dmitriy Dorofeyev        
+07/26/2024
+
+
+
+
+1. Import Libraries
+2. Define a file path 
+3. Open File: Opens the CSV file for reading.
+4. csv.reader: Creates a reader object to iterate over rows in the CSV.
+5. next(reader): Skips the header row.
+6. for row in reader: Iterates over each row in the CSV.
+7. Convert to Floats: Converts the numeric values in each row to floats, excluding the first two columns (assumed to be non-numeric like names).
+8. Exception Handling: Skips rows that contain non-numeric values and prints a warning message.
+9. first_few_rows: Extracts and prints the first few rows of the dataset for a quick check. This helps in verifying that data was read correctly.
+10. Call main Function and run the program.
+11. https://github.com/Ddeema24/COP2373.g
