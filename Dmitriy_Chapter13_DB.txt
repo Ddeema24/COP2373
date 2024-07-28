@@ -1,0 +1,14 @@
+﻿Dmitriy Dorofeyev
+07/25/2024
+
+
+
+
+
+
+1.  Establish a new SQLite database and table named population.
+2. Add population data for 10 Florida cities for the year 2023.
+3. Project population growth for 20 years at a 2% annual rate and insert it into the table.
+4. Retrieve and plot the population growth over time for a selected city.
+5. Call the main function to run the program.
+6. https://github.com/Ddeema24/COP2373.g
